@@ -17,8 +17,6 @@ import org.kitteh.vanish.staticaccess.VanishNoPacket;
 @SuppressWarnings("deprecation")
 public class TeleportEffects extends JavaPlugin implements Listener{
 	
-	//testing
-	
 	Plugin vanish;
 	boolean useVanish = false;
 	
