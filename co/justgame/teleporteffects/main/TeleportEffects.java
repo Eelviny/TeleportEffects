@@ -1,4 +1,4 @@
-package teleportEffects;
+package co.justgame.teleporteffects.main;
 
 import org.bukkit.Bukkit;
 

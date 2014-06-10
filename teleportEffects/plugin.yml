@@ -1,7 +1,0 @@
-name: TeleportEffects
-main: teleportEffects.TeleportEffects
-version: 1.1.0
-description: TeleportEffects adds some effects when teleporting.
-author: JayLegoMine14
-website: http://justgame.co/
-softdepend: [VanishNoPacket]
